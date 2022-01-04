@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in how artificial and biological intelligence learn and how optimization and dynamical systems theory can help theorize it. My PhD thesis revolves exploring principles of dynamic plasticity in synapses to produce more able and adaptive systems. 
+I am interested in how artificial and biological intelligence learn and how optimization and dynamical systems theory can help formalize it. My PhD thesis revolves around the exploration of principles of synaptic plasticity principles for artificial neural networks, in an attempt to produce more able and adaptive systems. 
