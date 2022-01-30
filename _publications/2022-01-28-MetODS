@@ -1,0 +1,13 @@
+---
+title: "A Discourse on MetODS: Meta-Optimized Dynamical Synapses for Meta-Reinforcement Learning"
+collection: In preparation
+permalink: /publication/2022-01-28-MetODS
+excerpt: '--'
+date: 2022-01-28
+venue: 
+paperurl: 'http://mathieuchal.github.io/files/BD3MG.pdf'
+citation: 'M. Chalvidal and E. Chouzenoux, "Block Distributed 3MG Algorithm and its Application to 3D Image Restoration," 2020 IEEE International Conference on Image Processing (ICIP), 2020, pp. 938-942, doi: 10.1109/ICIP40778.2020.9190921.'
+---
+Recent meta-reinforcement learning work has emphasized the importance of mnemonic control for agents to quickly assimilate relevant experience in new contexts and suitably adapt their policy. However, what computational mechanisms support flexible behavioral adaptation from past experience remains an open question. Inspired by neuroscience, we propose MetODS (for Meta-Optimized Dynamical Synapses), a broadly applicable model of meta-reinforcement learning which leverages fast synaptic dynamics influenced by action-reward feedback. We develop a theoretical interpretation of MetODS as a model learning powerful control rules in the policy space and demonstrate empirically that robust reinforcement learning programs emerge spontaneously from them. We further propose a formalism which efficiently optimizes the meta-parameters governing MetODS synaptic processes.
+In multiple experiments and domains, MetODS outperforms or compares favorably with previous meta-reinforcement learning approaches. Our agents can perform one-shot learning, approaches optimal exploration/exploitation strategies, generalize navigation principles to unseen environments and demonstrate a strong ability to learn adaptive motor policies.
+
