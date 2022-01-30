@@ -1,7 +1,7 @@
 ---
 title: "Aleatoire et Probabilites"
 collection: teaching
-type: "Undergraduate course"
+type: "teaching assistant"
 permalink: /teaching/2021-Aleatoire-et-Probabilites
 venue: "Université Paul Sabatier, Departement de Mathematiques"
 date: 2021-08-01
