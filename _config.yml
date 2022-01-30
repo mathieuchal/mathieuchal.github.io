@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Web page"
+title                    : "Mathieu Chalvidal"
 title_separator          : "-"
-name                     : &name "Mathieu Chalvidal"
-description              : &description "Webpage under construction"
+name                     : "Mathieu Chalvidal"
+description              : "Webpage under construction"
 url                      : https://mathieuchal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mathieuchal/mathieuchal.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : chalvim
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mathieu Chalvidal"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at ANITI, Toulouse France and Brown University "
+  bio              : "PhD Candidate at ANITI and Brown University "
   location         : "France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LB9Moj8AAAAJ&hl=en"
-  email            :
+  email            : "mathieu_chalvid@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
