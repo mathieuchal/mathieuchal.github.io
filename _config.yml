@@ -31,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -83,12 +83,12 @@ author:
   name             : "Mathieu Chalvidal"
   avatar           : "profile.png"
   bio              : "PhD Candidate at ANITI and Brown University "
-  location         : "France"
+  location         : #"France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LB9Moj8AAAAJ&hl=en"
   email            : "mathieu_chalvid@brown.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
